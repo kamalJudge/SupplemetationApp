@@ -3,7 +3,3 @@ A fitness application developed in android studio and with firebase database whe
 
 # Screenshots
 ![](images/supplementation.png)
-![](images/supplementation1.png)
-![](images/supplementation2.png)
-![](images/supplementation3.png)
-![](images/supplementation4.png)
