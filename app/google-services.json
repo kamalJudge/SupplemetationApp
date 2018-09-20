@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545332239875",
+    "firebase_url": "https://supplementaionapp.firebaseio.com",
+    "project_id": "supplementaionapp",
+    "storage_bucket": "supplementaionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545332239875:android:c0b06259de4fae70",
+        "android_client_info": {
+          "package_name": "com.lotusapps.kamaljudge.supplemetationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545332239875-lubd5vj3ng3bbq70h4goh0h49f086p53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lotusapps.kamaljudge.supplemetationapp",
+            "certificate_hash": "de123c1f940f15c217a25ed4c7d6827153a030a6"
+          }
+        },
+        {
+          "client_id": "545332239875-avn9v2arbi1m5hdbfbhqjd5r8r9k9n5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-IC6daTg4x0xkcbiHQwWhuU4eXSAqLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545332239875-avn9v2arbi1m5hdbfbhqjd5r8r9k9n5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
